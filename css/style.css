@@ -1,7 +1,15 @@
-h1 {
-     color: brown;
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
-margin: 0;
-padding: 0;
-fon-family: arial, helvetica, sans-serif;
+
+body {
+    background-color: #f0ebf8;
+}
+
+.cabecalho {
+    height: 160px;
+    padding: 20px;
+    background-color: #673ab7;
 }
